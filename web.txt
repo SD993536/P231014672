@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的有趣网页练习</title>
+</head>
+<body>
+    <h1>这是我精心制作的页面一级标题</h1>
+    <div>
+        <h2>输入表单元素</h2>
+        <form action="https://www.baidu.com/s">
+        <input type="text" name="wd" >
+        <input type="submit" value="搜索">
+    </form>
+    </div>
+    <div>
+        <p>
+            这里展示一些个人的信息和爱好介绍。
+        </p >
+        <ol>
+            <li>
+                第一步：打开书本
+            </li>
+            <li>
+                第二步：开始阅读
+            </li>
+            <li>
+                第三步：合上书本
+            </li>
+        </ol>
+        <ul>
+            <li>香蕉</li>
+            <li>橙子</li>
+            <li>西红柿</li>
+        </ul>
+   </div>
+   <div>
+    <h2>这是新的部分标题<br><span>这是相关副标题</span></h2>
+    <p>这是一段文字，会用到行内元素，比如a、img等。</p >
+   </div>
+   <div>
+    <p>
+        < img src="https://example.com/images/book.jpg" alt="一本有趣的书" width="200">
+        < img src="https://img1.doubanio.com/img/niffler/r/c3ab871e-2401-11e7-9fe8-0242ac110046.png" alt="示例图片">
+    </p >
+    <p>
+        <iframe src="//player.youku.com/embed/XNTE0Mzc3MDY0MA==" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  autoplay="no" width="400"></iframe>
+    </p >
+    <p>
+        < img src="https://example.com/images/school_logo.svg" alt="学校校徽" width="200">
+    </p >
+   </div>
+   <div>
+    <h2>新的表格相关元素</h2>
+    <table>
+        <tr><td>3.1</td><td>3.2</td><td>3.3</td></tr>
+        <tr><td>4.1</td><td>4.2</td><td>4.3</td></tr>
+    </table>
+   </div>
+   
+</body>
+</html>
+ 
+ 
